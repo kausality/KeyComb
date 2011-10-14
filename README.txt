@@ -10,7 +10,7 @@ Let's suppose he searches for the word "basic instinct" on the web and you
 know what really he is looking for ,so you start KeyComb and feed it the pattern
 "basic instinct"....now whenever someone types this word then bang!
 
-The most amazing part is that KeyComb can also emulate backspaces so its hard to escape it.Now if he instead made some type like "basic instincr" and then he pressed backspace and then 't',still this tool will catch it.It is possible by the use of stacks in KeyComb to store the keystokes.
+The most amazing part is that KeyComb can also emulate backspaces so its hard to escape it.Now if he instead made some typo like "basic instincr" and then he pressed backspace and then 't',still this tool will catch it.It is possible by the use of stacks in KeyComb to store the keystokes.
 
 KeyComb can display message box or execute any commands when that pattern is typed.
 So KeyComb is a nice little tool to have much fun!
