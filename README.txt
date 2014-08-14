@@ -2,20 +2,10 @@ Copyfree (F) <Kaustubh Pratap Chand>
 
 KeyComb is a pattern matching tool.
 
-Suppose you have a naughty little brother and he searches for all naughty 
-things on the web and you want to freak him out then KeyComb is the tool you
-are looking for!
+It matches what you type on the keyboard with a predefined string. For example:
+If you have the to-match string to "github" then whenever someone types github
+you can show a message box with your message or execute a command or run a program.
 
-Let's suppose he searches for the word "basic instinct" on the web and you
-know what really he is looking for ,so you start KeyComb and feed it the pattern
-"basic instinct"....now whenever someone types this word then bang!
+It also emulates backspace key. So g-i-t-h-y-[Backspace]-u-b will also match github.
 
-The most amazing part is that KeyComb can also emulate backspaces so its hard to escape it.Now if he instead made some typo like "basic instincr" and then he pressed backspace and then 't',still this tool will catch it.It is possible by the use of stacks in KeyComb to store the keystokes.
-
-KeyComb can display message box or execute any commands when that pattern is typed.
-So KeyComb is a nice little tool to have much fun!
-I use it to display some warning message to these peoples to freak them out and they
-don't dare once again to do that again because now they think that this 
-computer is under surveillance.
-
-All input to the program is intercative and simple...so happy freaking ;)
+It's application depends on your imagination :)
